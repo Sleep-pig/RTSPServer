@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/H264File.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/H264File.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/H264File.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/H264File.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/H264Source.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/H264Source.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/H264Source.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/H264Source.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/IOServicePool.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/IOServicePool.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/IOServicePool.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/IOServicePool.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/LogicSystem.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/LogicSystem.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/LogicSystem.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/LogicSystem.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/MediaSession.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/MediaSession.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/MediaSession.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/MediaSession.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/RtpConnection.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/RtpConnection.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/RtpConnection.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/RtpConnection.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/RtspConnect.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/RtspConnect.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/RtspConnect.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/RtspConnect.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/RtspServer.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/RtspServer.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/RtspServer.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/RtspServer.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/main.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/main.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/main.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/main.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/jie/workspace/cpp/RTSP/src/net/include -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/net/CMakeFiles/net.dir/core/test_main.cpp.o -c /home/jie/workspace/cpp/RTSP/src/net/core/test_main.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/net/core/test_main.cpp",
+  "output": "src/net/CMakeFiles/net.dir/core/test_main.cpp.o"
+},
+{
+  "directory": "/home/jie/workspace/cpp/RTSP/build",
+  "command": "/usr/bin/clang++ -I/home/jie/workspace/cpp/RTSP/src/logger/include -g -std=gnu++17 -fstandalone-debug -o src/logger/CMakeFiles/logger.dir/core/Timestamp.cpp.o -c /home/jie/workspace/cpp/RTSP/src/logger/core/Timestamp.cpp",
+  "file": "/home/jie/workspace/cpp/RTSP/src/logger/core/Timestamp.cpp",
+  "output": "src/logger/CMakeFiles/logger.dir/core/Timestamp.cpp.o"
+}
+]

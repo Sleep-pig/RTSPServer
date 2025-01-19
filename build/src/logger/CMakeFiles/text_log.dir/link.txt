@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Xlinker --dependency-file -Xlinker CMakeFiles/text_log.dir/link.d CMakeFiles/text_log.dir/core/main.cpp.o -o text_log  ../TimeStamp/libTimeStamp.a

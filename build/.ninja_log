@@ -1,0 +1,16 @@
+# ninja log v6
+2	11	1736756449982173350	/home/jie/workspace/cpp/RTSP/build/CMakeFiles/cmake.verify_globs	8e5d46f8ade1b63d
+12	1738	1736756015575751642	src/net/CMakeFiles/net.dir/core/LogicSystem.cpp.o	6b889e23be931e36
+2441	2610	1731642943533668050	src/net/net	c7c1f6793ded8f45
+13	2216	1736702819275853782	src/net/CMakeFiles/net.dir/core/main.cpp.o	9add1e7644c76d85
+12	1776	1736756015575751642	src/net/CMakeFiles/net.dir/core/MediaSession.cpp.o	1921946419c8d67f
+13	28	1736666176226905388	src/net/CMakeFiles/net.dir/core/test_main.cpp.o	dae183f3975009ec
+2827	3070	1736756018392417513	/home/jie/workspace/cpp/RTSP/net	9fdb13d3a0e1ef40
+12	2756	1736756015579084975	src/net/CMakeFiles/net.dir/core/RtspServer.cpp.o	be3decc4ac17da05
+12	46	1736237992691014644	src/net/CMakeFiles/net.dir/core/H264File.cpp.o	30e45865e45fb4ad
+13	435	1735797502845640024	src/logger/CMakeFiles/logger.dir/core/Timestamp.cpp.o	adc3156c488d892e
+12	2827	1736756015575751642	src/net/CMakeFiles/net.dir/core/RtpConnection.cpp.o	6611e0604328811d
+12	2527	1736756015579084975	src/net/CMakeFiles/net.dir/core/RtspConnect.cpp.o	f23929a3ca5611b2
+12	550	1736702819275853782	src/net/CMakeFiles/net.dir/core/H264Source.cpp.o	5af3fb32e087984f
+435	467	1735797503265637332	src/logger/liblogger.a	630db5ce4ea19c8d
+13	2207	1735825635774441032	src/net/CMakeFiles/net.dir/core/IOServicePool.cpp.o	8ad28022c7fcbb29
